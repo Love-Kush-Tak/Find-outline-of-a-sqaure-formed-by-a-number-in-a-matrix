@@ -31,7 +31,7 @@ MN = list(map(int, input().split()))
 m =MN[0]
 n = MN[1]
 matrix = []
-# For taking the elemts as input
+# For taking the elements as input
 for i in range(m):
   arr = list(map(int, input().split()))
   matrix.append(arr)
