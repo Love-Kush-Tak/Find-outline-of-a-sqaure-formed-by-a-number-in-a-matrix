@@ -16,7 +16,7 @@ Sample Input :
 Sample Output :
 YES
 * ** * ** * * ** * * ** * * * ** * ** * * * * ** * ** *** * * * **  ** * * * ** * *  * * ** * * * * * ** * * * ** * * * ** * * * ** * * * 
-# consider a square having lest most corner as D, then immediate right corner of it as A, then bottom one to A as B, and at left to B as C 
+# consider a square having left most corner as D, then immediate right corner of it as A, then bottom one to A as B, and at left to B as C 
 Basic fundae used:
 1) strart scanning each element row wise and look if it has 4 in it
 2) then we look if it has 4 in its right too, if we get 4 at its right we look at the immediate bottom and look if it has also 4 there
